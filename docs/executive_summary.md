@@ -1,6 +1,6 @@
 # Executive Summary: Tech Talent Market Intelligence Hub
 
-**Date:** [Month Year] | **Author:** [Your Name] | **Version:** 1.0
+**Date:** April, 2026 | **Author:**Ananya P Kumar | **Version:** 1.0
 
 ---
 
