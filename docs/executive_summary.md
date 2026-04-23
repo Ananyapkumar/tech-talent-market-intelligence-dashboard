@@ -5,8 +5,8 @@
 ---
 
 ## Purpose
-This report analyses [N] technology job postings collected over [time period] 
-across [N] cities and [N] companies to answer three strategic questions for 
+This report analyses technology job postings collected over [time period] 
+across cities and companies to answer three strategic questions for 
 talent acquisition leaders:
 
 1. Where is salary inflation outpacing market averages?
@@ -54,5 +54,6 @@ All segments with fewer than 50 postings are excluded from statistical conclusio
 
 ## How to Use the Dashboard
 Open the Power BI report. Use the slicers on each page to filter by role, location, 
-company size, or skill. Page 1 (Executive Snapshot) provides the highest-level view. 
+company size, or skill. Page 1 (Executive Snapshot)
+ provides the highest-level view. 
 Drill through to skill or company pages for granular analysis.

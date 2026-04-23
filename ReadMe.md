@@ -50,4 +50,3 @@ python src/db/load_data.py
 ![Executive Snapshot](docs/dashboard_screenshots/page1_executive.png)
 
 ---
-*Built as a senior data analyst portfolio project demonstrating Python, SQL, and Power BI.*
