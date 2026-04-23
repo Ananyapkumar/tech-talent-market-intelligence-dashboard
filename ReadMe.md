@@ -32,7 +32,7 @@ job market data to answer:
 
 ## Quick Start
 ```bash
-git clone https://github.com/YOURUSERNAME/tech-talent-intelligence
+git clone https://github.com/Ananyapkumar/tech-talent-market-intelligence-dashboard
 cd tech-talent-intelligence
 pip install -r requirements.txt
 cp .env.example .env
